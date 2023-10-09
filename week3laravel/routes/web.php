@@ -32,7 +32,7 @@ Route::view('/tentangkita', 'about',
 // url, namafile
 Route::view('/kontakkita', 'contact',
 [
-    "pagetitle" => "Contact",
+    "pagetitle" => "Contacts",
     "maintitle" => "Contact Data"
 ]
 );
